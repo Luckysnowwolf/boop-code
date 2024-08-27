@@ -1,0 +1,63 @@
+h1 {
+    color:white;
+font-size: 40px;
+ font-weight:300;
+
+    font-style: italic;
+    text-align: center;
+    background-color: navy;
+  }
+  h2 {
+    color:white;
+
+    font-style: italic;
+    background-color: navy;
+    
+  }
+  h3 {
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    background-color: navy;
+  }
+  h4 {
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    background-color: navy;
+  }
+  h5 {
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    background-color: navy;
+  }
+  h6 {
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    background-color: navy;
+  }
+  p {
+    color:rgb(255, 255, 255);
+    font-style: italic;
+  }
+  
+  body {
+  background-image: url(../images/birdboop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  }
+
+img {
+
+    border-width: 5px;
+    border-style: dotted;
+    border-color:indigo;
+    border-top:5px dotted navy;
+    border-bottom: 5px dotted navy;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black
+}
